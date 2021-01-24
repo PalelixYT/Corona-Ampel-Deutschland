@@ -1,0 +1,21 @@
+{
+  "source": "https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4",
+  "pr_date": "2021-01-23",
+  "indicators": {
+    "basic_reproduction_number": {
+      "color": "green",
+      "value": 0.91
+    },
+    "incidence_new_infections": {
+      "color": "red",
+      "value": 111
+    },
+    "icu_occupancy_rate": {
+      "color": "red",
+      "value": 30.6
+    },
+    "change_incidence": {
+      "color": "green",
+      "value": -34
+    }
+  }
